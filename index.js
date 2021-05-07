@@ -25,8 +25,7 @@ VanillaTilt.init(document.querySelector(".container"), {
     max: 25,
     speed: 400,
     glare: true,
-    "max-glare": 0.04,
-    gyroscope: true
+    "max-glare": 0.04
 });
 
 window.onload = function() {
